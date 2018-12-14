@@ -1,0 +1,12 @@
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/bin/iPhoneSimulator/Debug/PassDataBack.exe
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/bin/iPhoneSimulator/Debug/PassDataBack.pdb
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_PartialAppManifest.items
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_PartialAppManifest.items
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/obj/iPhoneSimulator/Debug/PassDataBack.csproj.CoreCompileInputs.cache
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/obj/iPhoneSimulator/Debug/PassDataBack.exe
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/obj/iPhoneSimulator/Debug/PassDataBack.pdb
+/Users/jacobh/Documents/TestProjects/C#/PassDataBack/PassDataBack/obj/iPhoneSimulator/Debug/PassDataBack.csprojAssemblyReference.cache

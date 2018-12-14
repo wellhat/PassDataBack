@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2775DD11-E235-4F9E-AD12-5C1D3F57D852}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassDataBack/Info.plist">
+    <Files>
+      <File FileName="PassDataBack/FirstViewController.cs" Line="19" Column="10" />
+      <File FileName="PassDataBack/SecondViewController.cs" Line="21" Column="1" />
+      <File FileName="PassDataBack/Info.plist" />
+      <File FileName="PassDataBack/Entitlements.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.PassDataBack automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C1DB565D-2804-4AD4-8726-847601BB8908" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
